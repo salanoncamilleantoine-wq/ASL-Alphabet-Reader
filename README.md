@@ -22,7 +22,7 @@ It uses:
 * eSpeak NG for text-to-speech
 
 The model was trained on ASL alphabet images and recognizes A-Z plus a `nothing` class.
-
+## The Video link on Youtube is https://youtu.be/o0UU1oxS8IU
 ## How It Works
 
 1. The webcam captures the user's hand.
