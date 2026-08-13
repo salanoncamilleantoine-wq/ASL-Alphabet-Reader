@@ -68,6 +68,8 @@ xhost +local:root
 cd ~/ASL_AI_COMPLETE_BACKUP/jetson-inference
 DISPLAY=:0 docker/run.sh
 ```
+![Uploading Screenshot 2026-08-12 171053.png…]()
+
 
 When the prompt starts with `root@nvidia-desktop`, you are inside Docker.
 
