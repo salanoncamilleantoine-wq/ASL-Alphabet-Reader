@@ -82,6 +82,8 @@ Inside Docker, run:
 cd /opt/jetson-inference/python/training/classification
 python3 data/asl/asl_tts_crop.py
 ```
+<img width="1246" height="900" alt="Screenshot 2026-08-12 172036" src="https://github.com/user-attachments/assets/2a1bc054-14f5-442c-a641-9ad1a9af473e" />
+
 
 Keep this terminal running.
 
@@ -124,6 +126,9 @@ The system will then:
 3. Display the letter and confidence.
 4. Wait for the prediction to stay stable.
 5. Speak the letter aloud.
+
+<img width="1247" height="873" alt="Screenshot 2026-08-12 172131" src="https://github.com/user-attachments/assets/fdff1934-dae9-45d0-84fc-05866fc9a413" />
+
 
 ## Stopping the Project
 
